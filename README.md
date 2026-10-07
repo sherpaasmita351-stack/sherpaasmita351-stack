@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Use the following personal information:
-
 **Name:** Asmita Sherpa
 **Currently Learning:** C Programming, JavaScript
 **Hobbies:** Travelling, Eating, Coding, Reading books, Football, Volleyball, Cooking
@@ -126,15 +123,4 @@ Use:
 * GitHub badges
 * Appropriate emojis
 * Centered sections where they improve the design
-
-### Important Rules
-
-* Do not invent my GitHub username.
-* Do not invent LinkedIn, Instagram, or other social-media accounts.
-* Do not invent project details.
-* Do not claim that I am an expert in any programming language.
-* Present C Programming and JavaScript as technologies I am currently learning.
-* Present Python, Java, and CSS as technologies I plan to learn, while C Programming can remain in both current and future learning because I want to continue improving it.
-* Keep the language natural and suitable for a college student.
-* Make the final result look like a real personal GitHub profile, not a generic AI-generated portfolio.
 
