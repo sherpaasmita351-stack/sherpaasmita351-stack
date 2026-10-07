@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Absolutely. If you mean a **prompt that you can paste into an AI coding tool to generate the actual GitHub profile README for your GitHub profile**, use this:
-
-Create a complete and visually attractive GitHub Profile README.md for my GitHub profile.
 
 Use the following personal information:
 
@@ -141,4 +138,3 @@ Use:
 * Keep the language natural and suitable for a college student.
 * Make the final result look like a real personal GitHub profile, not a generic AI-generated portfolio.
 
-Return the complete, ready-to-paste `README.md` file.
